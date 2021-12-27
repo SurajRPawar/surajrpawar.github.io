@@ -1,0 +1,16 @@
+---
+layout: default
+title: Blog
+---
+
+Here is list of my blog posts. 
+
+<br>
+
+<ul>
+  {% for post in site.posts %}
+    <li class="spaced">
+      <a href="{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_long_string }}
+    </li>
+  {% endfor %}
+</ul>
