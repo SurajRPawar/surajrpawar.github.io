@@ -119,7 +119,7 @@ $$
 
 You can follow the same train of thought with multiple inputs, like we had in our MSD system ($B \ast u$) and you should be able to arrive at the convolution integral that appears at the end of equation 1 !
 
-You can download the simulate file [here](\assets\post-convolution integral\Simulation.m) and the model file that is called from the simulation file [here](\assets\post-convolution integral\msd.m).
+You can download the simulate file [here](\assets\doc\convolution\Simulation.m) and the model file that is called from the simulation file [here](\assets\doc\convolution\msd.m).
 ##### References and Notes
 [^1]: Kailath, Thomas. Linear systems. Vol. 156. Englewood Cliffs, NJ: Prentice-Hall, 1980.
 [^2]: Gelb, A. (Ed.). (1974). Applied optimal estimation. MIT press.

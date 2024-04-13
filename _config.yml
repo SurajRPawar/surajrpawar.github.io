@@ -15,9 +15,9 @@ author: Suraj Pawar
 
 navbar-links:
   # About Me: "aboutme"
-  Publications: "publications"
-  # Tags : "tags"
   Blog: "blog"
+  # Publications: "publications"
+  Tags : "tags"
   # Resources:
     # - Beautiful Jekyll: "https://beautifuljekyll.com"
     # - Learn markdown: "https://www.markdowntutorial.com/"
