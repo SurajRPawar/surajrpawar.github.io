@@ -7,6 +7,7 @@ subtitle: Welcome to my blog
 # share-img: /assets/img/noise/noise_head.jpg
 # tags: [stochastic systems, notes]
 mathjax : true
+published : false
 #feature_text: |
   ## The Pot Still
   #The modern pot still is a descendant of the alembic, an earlier distillation device
